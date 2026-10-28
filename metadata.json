@@ -1,0 +1,6 @@
+{
+  "name": "AI Internship Mentor & Task Review System",
+  "description": "AI-Powered Data Analytics Internship Mentor with automated task review, natural voice interaction, progress tracking, email notifications, and reviewer feedback cycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
